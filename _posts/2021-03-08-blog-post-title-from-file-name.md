@@ -10,6 +10,7 @@ This is a sample blog post. You can talk about all sorts of fun things here.
 
 ### This is a header
 
+![CPU-PCBA](https://github.com/user-attachments/assets/a82cd105-9faf-46dd-ae59-421b301e247f)
 #### Some T-SQL Code
 
 ```tsql
