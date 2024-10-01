@@ -1,4 +1,4 @@
-# **Naztechs Blog**
+# **NazTechs Blog**
 
 Welcome to my corner of the internet. I’m Soheil NAZARI, passionate about **electronics**, and I enjoy exploring the fascinating worlds of **FPGA** and **analog chip design**. With experience in **microcontrollers** and **Linux development**, I strive to create innovative solutions that push the boundaries of technology.
 
