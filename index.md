@@ -5,7 +5,7 @@ Welcome to my corner of the internet. I’m **Soheil Nazari**, an electronics en
 ---
 
 <p>
-  <img src="https://github.com/user-attachments/assets/7a4db969-6041-448e-887a-e494066e84ce" alt="Soheil Nazari" width="150" align="left" style="margin: 0 30px 30px 0;"/>
+  <img src="https://github.com/user-attachments/assets/7a4db969-6041-448e-887a-e494066e84ce" alt="Soheil Nazari" width="150" align="left" style="margin: 0 30px 15px 0;"/>
 </p>
 
 ### **About Me**
@@ -26,7 +26,7 @@ Feel free to browse through and find something helpful or interesting.
 ---
 
 ### **Let’s Connect**
-I’d love to hear from you! You can connect with me on [LinkedIn](https://www.linkedin.com) or check out more of my work on [GitHub](https://github.com/naztechs). Feel free to reach out if you’d like to collaborate or share ideas.
+I’d love to hear from you! You can connect with me on [LinkedIn](https://www.linkedin.com/in/soheil-nazari-aa825a8a/) or check out more of my work on [GitHub](https://github.com/naztechs). Feel free to reach out if you’d like to collaborate or share ideas.
 
 ---
 
