@@ -5,7 +5,7 @@ Welcome to my corner of the internet. I’m **Soheil Nazari**, an electronics en
 ---
 
 <p>
-  <img src="https://github.com/user-attachments/assets/7a4db969-6041-448e-887a-e494066e84ce" alt="Soheil Nazari" width="150" align="left" style="margin-right: 15px;"/>
+  <img src="https://github.com/user-attachments/assets/7a4db969-6041-448e-887a-e494066e84ce" alt="Soheil Nazari" width="150" align="left" style="margin: 0 30px 30px 0;"/>
 </p>
 
 ### **About Me**
