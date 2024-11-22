@@ -28,7 +28,7 @@ For the cryogenic measurement system, we chose to use Altium Designer for schema
 One of the challenges in the design of the measurement system was dealing with the extreme temperatures involved. To compensate for the effects of the cryogenic temperatures on the magnetic reluctance sensor, we needed to use an FPGA and microcontroller to read and process the sensor data. Altium Designer's mixed-signal design capabilities were invaluable in the integration of the FPGA and microcontroller into the design.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/84bb5a7a-09a1-443d-9848-7cb5e206b2b1" alt="image" width="400"/>
+  <img src="https://github.com/user-attachments/assets/84bb5a7a-09a1-443d-9848-7cb5e206b2b1" alt="image" width="300"/>
 </div>
 
 
@@ -36,7 +36,7 @@ signal integrity issues early in the design phase, allowing us to make the neces
 The SPICE software allowed us to perform mixed-signal simulation of the design before prototyping. This enabled us to verify the performance of the system before fabrication and ensure that it met the required specifications.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4263fbe6-2603-4f28-84b5-239ae4e25841" alt="image" width="400"/>
+  <img src="https://github.com/user-attachments/assets/4263fbe6-2603-4f28-84b5-239ae4e25841" alt="image" width="300"/>
 </div>
 
 ---
@@ -46,7 +46,7 @@ Field-Programmable Gate Arrays (FPGAs) are becoming increasingly popular for dev
 The FPGA used in the Cryogenic Measurement System is a Xilinx Spartan-3 FPGA. The Spartan-3 FPGA is a low-cost FPGA that provides a flexible architecture for implementing complex digital systems. The Spartan-3 FPGA has a high-speed interface and a large number of programmable logic blocks (PLBs) that can be configured to perform various tasks.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a74b8e12-8107-4f80-ae80-d20c28148370" alt="image" width="500"/>
+  <img src="https://github.com/user-attachments/assets/a74b8e12-8107-4f80-ae80-d20c28148370" alt="image" width="300"/>
 </div>
 
 **FPGA-Based Sensor Readout**
@@ -57,20 +57,20 @@ The Cryogenic Measurement System uses FPGAs for digital signal processing. The F
 To achieve high-performance digital signal processing, the FPGAs are configured to use pipelining and parallel processing techniques. Pipelining and parallel processing techniques reduce the processing time by breaking the task into smaller sub-tasks and processing them simultaneously.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/751f4e65-c8b9-4aeb-93c3-2c0ffd53f86a" alt="image" width="500"/>
+  <img src="https://github.com/user-attachments/assets/751f4e65-c8b9-4aeb-93c3-2c0ffd53f86a" alt="image" width="300"/>
 </div>
 
 **Mixed Signal and High-Speed Signal Design**
 The Cryogenic Measurement System is a mixed signal and high-speed signal design that includes analog and digital components. The analog components include magnetic reluctance sensors, low-noise amplifiers, and filters. The digital components include FPGAs, microcontrollers, and communication interfaces.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/410f5639-7831-4917-b96a-09c1fd51ba7f" alt="image" width="500"/>
+  <img src="https://github.com/user-attachments/assets/410f5639-7831-4917-b96a-09c1fd51ba7f" alt="image" width="300"/>
 </div>
 
 To ensure proper signal integrity and avoid noise and distortion, the Cryogenic Measurement System uses various design techniques such as proper grounding, shielding, and signal routing. The design also includes impedance matching, termination, and decoupling techniques to ensure the reliable transmission of high-speed signals.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/27962c61-20f8-4046-b3f3-ea052af5fdad" alt="image" width="500"/>
+  <img src="https://github.com/user-attachments/assets/27962c61-20f8-4046-b3f3-ea052af5fdad" alt="image" width="300"/>
 </div>
 
 ## Microcontroller Design:
@@ -87,7 +87,7 @@ The microcontroller is also equipped with a rich set of software development too
 In addition, the NXP LPC4088 microcontroller is highly scalable, allowing it to meet the requirements of a wide range of applications. It can be used in standalone applications or as part of a larger system, making it a versatile choice for many different types of projects.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/50399a7d-bd50-4c80-9de8-753b9f3f6e8c" alt="image" width="500"/>
+  <img src="https://github.com/user-attachments/assets/50399a7d-bd50-4c80-9de8-753b9f3f6e8c" alt="image" width="300"/>
 </div>
 
 The NXP LPC4088 microcontroller is used in the Cryogenic Measurement System to compensate data for the cryogenic system. The microcontroller is responsible for processing the sensor data to ensure accurate measurements are taken. It compensates for any temperature or pressure changes in the cryogenic system, ensuring that the data captured is reliable and accurate.
@@ -95,7 +95,7 @@ The NXP LPC4088 microcontroller is used in the Cryogenic Measurement System to c
 Magnetic reluctance sensors are widely used in various industries, including the petrochemical industry, due to their high accuracy and reliability. These sensors are based on the principle of magnetic reluctance, which is the measure of a magnetic circuit's resistance to magnetic flux.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c86d2b53-1fbb-42d3-af6f-54fa428afb6b" alt="image" width="500"/>
+  <img src="https://github.com/user-attachments/assets/c86d2b53-1fbb-42d3-af6f-54fa428afb6b" alt="image" width="300"/>
 </div>
 
 In the Cryogenic Measurement System designed for the cold box in the petrochemical industry, a magnetic reluctance sensor was used to detect changes in the magnetic field within the cryogenic system. This sensor works by measuring the change in the reluctance of a magnetic circuit when a magnetic field is applied. The magnetic reluctance is directly proportional to the magnetic flux and inversely proportional to the magnetic permeability of the circuit material.
@@ -104,30 +104,36 @@ The processing circuitry amplifies the voltage signal generated by the sensing e
 One of the advantages of using a magnetic reluctance sensor is that it is relatively immune to electrical noise and interference. This makes it ideal for use in harsh environments, such as the cryogenic system in the cold box, where there may be a significant amount of electrical noise. Additionally, magnetic reluctance sensors have a wide operating temperature range, making them suitable for use in extreme temperature environments.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f8fa67c7-15d6-4e4f-8948-b27568ae1be4" alt="image" width="500"/>
+  <img src="https://github.com/user-attachments/assets/f8fa67c7-15d6-4e4f-8948-b27568ae1be4" alt="image" width="300"/>
 </div>
 
 ## Mechanical Design and Sensor Stand:
 
 A specialized sensor stand was designed in CATIA software to accurately measure the rotation speed and vibration of the impeller shaft. The sensor stand is installed on the main diffuser of the compressor, where the impeller shaft passes through. The stand is designed to withstand the extreme cryogenic temperatures of the environment.
-![image](https://github.com/user-attachments/assets/d7215622-b81a-489b-b707-a1db486f2397)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d7215622-b81a-489b-b707-a1db486f2397" alt="image" width="300"/>
+</div>
 The sensor stand features a magnetic reluctance sensor, which detects the rotation speed of the impeller shaft by measuring changes in magnetic field strength. The sensor is positioned close to the shaft but does not touch it, allowing for accurate measurements without affecting the impeller's operation.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/267fde11-56f1-45c7-9a34-598fe056dd4d" alt="image" width="500"/>
+  <img src="https://github.com/user-attachments/assets/267fde11-56f1-45c7-9a34-598fe056dd4d" alt="image" width="400"/>
 </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7b990c1d-95e8-4527-b059-16c900278cac" alt="image" width="500"/>
+  <img src="https://github.com/user-attachments/assets/7b990c1d-95e8-4527-b059-16c900278cac" alt="image" width="400"/>
 </div>
 
 
 The mechanical design of the sensor stand was optimized to ensure stable and reliable measurement even in the extreme cryogenic environment. The stand is made of high-quality materials that can withstand low temperatures, and the design incorporates measures to prevent heat transfer from the warm environment to the sensor stand, which could affect the accuracy of the measurements.
-![image](https://github.com/user-attachments/assets/ad66db74-5ed6-44bf-a429-d2edd68d8ccd)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ad66db74-5ed6-44bf-a429-d2edd68d8ccd" alt="image" width="400"/>
+</div>
 
 The Cryogenic Measurement System designed and installed at ABBNIROO has been in operation since 2016 and has been a remarkable success. The system has been operating flawlessly without any failure, providing accurate real-time data to the plant operators.
 
-![image](https://github.com/user-attachments/assets/b3010900-9399-457b-b598-2dcd0b5469d5)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b3010900-9399-457b-b598-2dcd0b5469d5" alt="image" width="400"/>
+</div>
 
 The system's FPGA and microcontroller-based hardware design, along with the Magnetic Reluctance Sensor and its stand, have proven to be highly reliable and accurate in the challenging cryogenic environment. The Altium-designed PCBs have also demonstrated excellent signal integrity and stability, ensuring precise measurement and control of the cryogenic process.
 The specialized Keil software design used for the microcontroller has provided efficient and reliable communication between the different components of the system, allowing for real-time data acquisition and control.
@@ -136,13 +142,17 @@ The specialized Keil software design used for the microcontroller has provided e
 
 The success of the Cryogenic Measurement System has resulted in increased efficiency and productivity in the Cryogenic Plants-Air Separation process, improving the overall performance of the petrochemical plant. The system's ability to provide accurate real-time data has allowed operators to optimize the process, resulting in reduced energy consumption and improved product quality.
 
-![image](https://github.com/user-attachments/assets/9d31307d-d3d2-462c-8b0f-fb2f25fdb9b1)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9d31307d-d3d2-462c-8b0f-fb2f25fdb9b1" alt="image" width="400"/>
+</div>
 
 ## Acknowledgments
 We would like to express our deepest gratitude to everyone who contributed to the success of this project. First and foremost, we would like to thank ABBNIROO for their unwavering support throughout the project. Their expertise in the petrochemical industry and their commitment to excellence have been invaluable to the success of the project.
 We would also like to extend our appreciation to the team members who worked tirelessly to design, install, and maintain the Cryogenic Measurement System. Their hard work, dedication, and expertise were instrumental in ensuring the system's accuracy and reliability in extreme temperatures.
 
-![image](https://github.com/user-attachments/assets/332126e9-b106-4d73-a545-5232f3742f55)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/332126e9-b106-4d73-a545-5232f3742f55" alt="image" width="400"/>
+</div>
 
 Lastly, we would like to thank our colleagues at the +55°C environment who worked alongside us during the installation and testing phases. Their support and encouragement helped us overcome the challenges of working in such extreme conditions.
 Thank you all for your invaluable contributions to the project's success. We are proud to report that the Cryogenic Measurement System has been working flawlessly since its installation in 2016, even in the harshest environments.
