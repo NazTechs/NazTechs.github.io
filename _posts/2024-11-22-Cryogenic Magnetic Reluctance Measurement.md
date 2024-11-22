@@ -1,4 +1,4 @@
-# Cryogenic Magnetic Reluctance Measurement:
+# Cryogenic Magnetic Reluctance Measurement
 **Accurate Measurements in Extreme Temperatures (-176°C.)**
 
 <div align="center">
