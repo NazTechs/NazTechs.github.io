@@ -55,11 +55,18 @@ To read the signal from the magnetic reluctance sensors, an FPGA-based sensor re
 **FPGA-Based Digital Signal Processing**
 The Cryogenic Measurement System uses FPGAs for digital signal processing. The FPGAs are responsible for performing signal processing tasks such as filtering, averaging, and compensation. The FPGAs also implement algorithms to compensate for the sensor drift, temperature changes, and other factors that can affect the accuracy of the measurements.
 To achieve high-performance digital signal processing, the FPGAs are configured to use pipelining and parallel processing techniques. Pipelining and parallel processing techniques reduce the processing time by breaking the task into smaller sub-tasks and processing them simultaneously.
-![image](https://github.com/user-attachments/assets/751f4e65-c8b9-4aeb-93c3-2c0ffd53f86a)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/751f4e65-c8b9-4aeb-93c3-2c0ffd53f86a" alt="image" width="500"/>
+</div>
 
 **Mixed Signal and High-Speed Signal Design**
 The Cryogenic Measurement System is a mixed signal and high-speed signal design that includes analog and digital components. The analog components include magnetic reluctance sensors, low-noise amplifiers, and filters. The digital components include FPGAs, microcontrollers, and communication interfaces.
-![image](https://github.com/user-attachments/assets/410f5639-7831-4917-b96a-09c1fd51ba7f)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/410f5639-7831-4917-b96a-09c1fd51ba7f" alt="image" width="500"/>
+</div>
+
 To ensure proper signal integrity and avoid noise and distortion, the Cryogenic Measurement System uses various design techniques such as proper grounding, shielding, and signal routing. The design also includes impedance matching, termination, and decoupling techniques to ensure the reliable transmission of high-speed signals.
 
 <div align="center">
