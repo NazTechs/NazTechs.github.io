@@ -1,6 +1,6 @@
 # **NazTechs Blog**
 
-Welcome to my corner of the internet. I’m **Soheil Nazari**, an electronics engineer passionate about **FPGA design**, **analog chip development**, and **embedded systems**. My work focuses on creating practical and efficient hardware-software solutions to solve real-world challenges.
+Welcome to my corner of the internet. I’m **Soheil Nazari**, an electronics engineer passionate about **RTL and FPGA design**, **analog and Mixed-signal chip development**, and **embedded systems**. My work focuses on creating practical and efficient hardware-software solutions to solve real-world challenges.
 
 ---
 
