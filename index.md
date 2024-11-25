@@ -10,6 +10,7 @@ Welcome to my corner of the internet. I’m **Soheil Nazari**, an electronics en
 
 ### **About Me**
 My expertise includes:
+- **IC Design and RTL Synthesis**: experience with various architectures.  
 - **FPGA Development**: Designing flexible, high-performance architectures.  
 - **Analog Circuit Design**: Crafting precise and reliable circuits for advanced hardware.  
 - **Embedded Systems**: Writing efficient firmware for microcontrollers and SoCs.  
