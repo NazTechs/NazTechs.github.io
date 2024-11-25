@@ -2,7 +2,7 @@
 **Accurate Measurements in Extreme Temperatures (-176°C.)**
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/92795f09-ad5d-47af-aa83-36c146e18a15" alt="image" width="500"/>
+  <img src="https://github.com/user-attachments/assets/8aaf9af7-cb4b-4b24-8d5c-ea0ec2bf7a06" alt="image" width="500"/>
 </div>
 
 # Introduction:
