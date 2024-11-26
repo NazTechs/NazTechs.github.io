@@ -32,3 +32,7 @@ I’d love to hear from you! You can connect with me on [LinkedIn](https://www.l
 ---
 
 Thanks for visiting, and enjoy exploring!
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K93SNNGZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
