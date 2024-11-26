@@ -57,6 +57,10 @@ Contributions to this repository are welcome. If you have any improvements or bu
 
 ## License
 This project is licensed under the MIT License. Feel free to use and modify the code for your own projects.
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K93SNNGZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 ## Acknowledgements
 MPU6050 Datasheet: Official datasheet for the MPU6050 sensor.
