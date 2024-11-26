@@ -156,5 +156,8 @@ We would also like to extend our appreciation to the team members who worked tir
 
 Lastly, we would like to thank our colleagues at the +55°C environment who worked alongside us during the installation and testing phases. Their support and encouragement helped us overcome the challenges of working in such extreme conditions.
 Thank you all for your invaluable contributions to the project's success. We are proud to report that the Cryogenic Measurement System has been working flawlessly since its installation in 2016, even in the harshest environments.
-
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K93SNNGZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
